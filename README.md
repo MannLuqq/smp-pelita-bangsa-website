@@ -35,6 +35,4 @@ Membangun sistem informasi sekolah yang dapat mempermudah penyampaian informasi 
 
 ## Author
 
-Luqmanul Hakim Mubarakh
-
-Mahasiswa Teknik Informatika Universitas Pamulang
+Luqmanul Hakim Mubarakh 2026
